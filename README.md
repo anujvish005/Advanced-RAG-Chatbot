@@ -8,11 +8,11 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://advanced-rag-chatbot.streamlit.app/)
 
 **A production-grade Retrieval-Augmented Generation (RAG) chatbot that lets you upload any document and have an intelligent conversation with it — powered by Groq's ultra-fast LLM inference, Pinecone vector database, and HuggingFace embeddings.**
 
-[🚀 Live Demo](https://your-app.streamlit.app) · [📝 Report Bug](https://github.com/anujvish005/advanced-rag-chatbot/issues) · [💡 Request Feature](https://github.com/anujvish005/advanced-rag-chatbot/issues)
+[🚀 Live Demo](https://advanced-rag-chatbot.streamlit.app/) · [📝 Report Bug](https://github.com/anujvish005/advanced-rag-chatbot/issues) · [💡 Request Feature](https://github.com/anujvish005/advanced-rag-chatbot/issues)
 
 </div>
 
@@ -300,3 +300,4 @@ This project is licensed under the MIT License — free to use, modify, and dist
 <div align="center">
 If this project helped you, please ⭐ star the repo and share it on LinkedIn!
 </div>
+
